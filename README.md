@@ -52,7 +52,7 @@ O projeto está dividido em duas partes principais:
    pip install pandas numpy sqlalchemy mysql-connector-python
 3. Configure o banco de dados MySQL com as credenciais fornecidas no script P2_funcoes_database.py.
 
-**Melhorias Futuras**
+## Melhorias Futuras
 - **Automação de ETL:** Implementar Web Scraping para buscar automaticamente os arquivos de dados no site.
 - **Refatoração do Código:** Melhorar o desempenho do código, especialmente na leitura inicial e na carga dos dados no MySQL.
 - **Segurança:** Utilizar variáveis de ambiente para armazenar credenciais do banco de dados.
